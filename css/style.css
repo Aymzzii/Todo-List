@@ -106,7 +106,7 @@ tbody td {
 }
 
 tbody td button {
-    width: 50px;
+    width: 60px;
     padding: 4px 8px;
     margin: 2px 5px;
 }
@@ -145,6 +145,10 @@ tbody td button:nth-child(3) {
     background-color: var(--color-error);
 }
 
+
+#edit-button {
+    display: none;
+}
 
 
 
